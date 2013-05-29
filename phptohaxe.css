@@ -1,0 +1,26 @@
+.phptohaxe textarea
+{
+	width: 100%;
+	height: 435px;      
+	overflow:scroll;
+}
+
+.phpToHaxe-menu
+{
+	float: left;
+	margin: 5px 0 10px;
+}
+
+.phpToHaxe-menu a
+{
+	float: left;
+	font-size: 13px;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+.phpToHaxe-menu .active
+{
+	color: #000000;
+	text-decoration: none;
+}
